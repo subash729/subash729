@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://www.shutterstock.com/image-photo/3d-graphics-concept-big-data-600nw-2204212039.jpg"> <br>
+<img align="center" height="100%" width="100%" src="https://blog.opsramp.com/hubfs/blog-infra-monitoring.png"> <br>
 <h1 align="center">Hi 👋, I'm Subash Chaudhary</h1>
 <h3 align="center">Passionate in Devops and Cloud Infrastructure from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://www.globalsign.com/application/files/4416/8934/0095/DevSecOps-721x474-063023.gif"> <br>
